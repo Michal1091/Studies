@@ -1,1 +1,2 @@
 # Studies
+Exercises and lectures
