@@ -1,2 +1,2 @@
 # Studies
-Exercises and lectures
+Projekty i ćwiczenia z C# na studiach informatycznych
