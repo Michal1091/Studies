@@ -31,6 +31,7 @@
             //or
             int age = int.Parse(Console.ReadLine());
             Console.WriteLine($"Your name: {name}, your age {age}");
+            //test
 
 
         }
